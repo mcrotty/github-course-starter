@@ -16,12 +16,12 @@ course:
   # Keep the description brief, about 140 chars
   description:
   # E.g., Spring 2013:
-  term:
+  term: Fall 2014
   instructor:
-    name:
-    office:
-    office_hours:
-    email:
-    phone:
+    name: M Crotty[
+    office: TSSG
+    office_hours: 09:30-14:30
+    email: test@tssg.org
+    phone: 
     # No @ before your username; e.g., twitter, not @twitter
-    twitter:
+    twitter: mcrotty
